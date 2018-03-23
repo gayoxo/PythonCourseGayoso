@@ -1,7 +1,7 @@
 from argparse import ArgumentParser
 
 parser = ArgumentParser(prog="hello")
-parser.add_argument('--user_id',type=int)
+parser.add_argument('-id','--user_id',type=int)
 
 args = parser.parse_args()
 
