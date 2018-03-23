@@ -1,0 +1,6 @@
+id,name,email,amount,sent,date
+1,Justin,justin@teamcfe.com,1293.23,,2018-03-19 12:00:15.852054
+2,John,john@teamcfe.com,1293.23,,2018-03-19 12:00:15.852054
+3,Sean,sean@teamcfe.com,99.666,True,2018-03-19 12:00:15.852054
+4,Emilee,emilee@teamcfe.com,1293.23,True,2018-03-19 12:00:15.852054
+5,Marie,marie@teamcfe.com,0.099,True,2018-03-19 12:00:15.852054
